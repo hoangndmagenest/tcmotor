@@ -1,14 +1,14 @@
 # -*- coding: utf-8 -*-
-# Part of BrowseInfo. See LICENSE file for full copyright and licensing details.
+# Part of Magenest. See LICENSE file for full copyright and licensing details.
 
 {
     "name" : "Car Repair and Automotive Service Maintenance Management Odoo App",
     "version" : "13.0.0.4",
     "depends" : ['base', 'sale', 'purchase', 'account', 'sale_stock', 'mail', 'product', 'stock', 'fleet','sale_management'],
-    "author": "BrowseInfo",
+    "author": "Magenest",
     "summary": "Fleet repair vehicle repair car Maintenance auto-fleet service repair Car Maintenance Repair workshop automobile repair Automotive Service repair Automotive repair machine repair workshop equipment repair service Repair auto repair shop Auto Shop repair",
     "description": """
-    BrowseInfo developed a new odoo/OpenERP module apps.
+    Magenest developed a new odoo/OpenERP module apps.
     This module use for autorepair industry , workshop management, Car Repair service industry, Spare parts industry. Fleet repair management. Vehicle Repair shop, Mechanic workshop, Mechanic repair software.Maintenance and Repair car. Car Maintenance Spare Part Supply. Car Servicing, Auto Servicing, Auto mobile Service, Bike Repair Service. Maintenance and Operation.Car Maintenance Repair management module helps to manage repair order, repair diagnosis, Diagnosis report, Diagnosis analysis, Quote for Repair, Invoice for Repair, Repair invoice, Repair orders, Workorder for repair, Fleet Maintenance.
     product repair, car workshop management, auto workshop management, repair workshop, workorder for product, 
 This module use for following industry.
