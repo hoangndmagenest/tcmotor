@@ -148,9 +148,7 @@ automotive workshop management software
 
     """,
     'category': 'Industries',
-    'price': 129,
-    'currency': "EUR",
-    "website" : "https://www.browseinfo.in",
+    "website" : "https://store.magenest.com/",
     "data" :[
         'security/fleet_repair_security.xml',
         'security/ir.model.access.csv',
@@ -180,7 +178,6 @@ automotive workshop management software
     ],
     "auto_install": False,
     "installable": True,
-    'live_test_url':'https://www.youtube.com/watch?v=V6OCodztNA4&t=133s',
     "images":['static/description/Banner.png'],
 }
 # vim:expandtab:smartindent:tabstop=4:softtabstop=4:shiftwidth=4:
