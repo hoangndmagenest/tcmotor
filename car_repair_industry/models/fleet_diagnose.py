@@ -8,7 +8,7 @@ from odoo.exceptions import UserError, ValidationError
 
 class fleet_diagnose(models.Model):
 	_name = 'fleet.diagnose'
-	_inherit = ['mail.thread']
+	_inherit = ['mail.thread', 'mail.activity.mixin']
 	_description = "Fleet diagnose"
 	
 	name =  fields.Char(string='Subject', required=True)

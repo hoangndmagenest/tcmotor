@@ -6,7 +6,7 @@ from datetime import date, time, datetime, timedelta
 
 class fleet_workorder(models.Model):
 	_name = 'fleet.workorder'
-	_inherit = ['mail.thread']
+	_inherit = ['mail.thread', 'mail.activity.mixin']
 	_description = "Fleet WorkOrder"
 
 	
